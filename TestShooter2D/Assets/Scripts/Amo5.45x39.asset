@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 826c25c2a996c154384d739d6eb01a56, type: 3}
+  m_Name: Amo5.45x39
+  m_EditorClassIdentifier: 
+  id: 1
+  itemType: 2
+  range: {x: 5, y: 4}
+  IsStackable: 1
+  image: {fileID: -1725737062, guid: d45f0cae013abb84688afe6e4bc52845, type: 3}
+  count: 30
